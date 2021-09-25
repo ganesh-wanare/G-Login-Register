@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "ganesh@gmail.com",
+      "email": "",
+      "number": 1234567890,
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "fullName": "shravan@gmail.com",
+      "email": "",
+      "number": 1234567890,
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "fullName": "Ganesh Wanare",
+      "email": "ganesh1@gmail.com",
+      "number": 123456789,
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "number": "",
+      "password": "",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
